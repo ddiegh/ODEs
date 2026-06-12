@@ -90,17 +90,17 @@ genera, para cada caso, tres subgráficas:
 
 > En el ejercicio 1 no se nos pide graficar el punto de equilibrio
 
-![Imagen 1](/imagenes/Figure_1.png)
+![Imagen 1](/practica4/imagenes/Figure_1.png)
 
 En este caso vemos un crecimiento de conejos sobre los de zorros y esto se lo podemos deber al los valor $ c = 0.10$ y a $b=0.01$ ya que estos valores influyen fuertemente a como van a progresar los conejos y los zorros. 
 Al mismo tiempo que vemos como los conejos crecen, podemos verlo de forma dual en los zorros, con ellos decreciendo. 
 
 
-![Imagen 1](/imagenes/Figure_2.png)
+![Imagen 2](/practica4/imagenes/Figure_2.png)
 Aquí con $c = 1.8$ y $b = 0.91$ las dos poblaciones se mantienen oscilando todo el tiempo, sin que las oscilaciones se hagan más chicas. Cada vez que suben los conejos, poco después suben los zorros, y cuando hay muchos zorros los conejos vuelven a bajar, así que nunca se asientan en un valor fijo.
 Esto lo podemos ver muy claro en el plano fase, donde la trayectoria forma una órbita cerrada que da vueltas alrededor del punto de equilibrio sin llegar a tocarlo.
 
-![Imagen 1](/imagenes/Figure_3.png)
+![Imagen 3](/practica4/imagenes/Figure_3.png)
 En este último caso, con $c = 1.1$ y $d = 0.55$, las poblaciones también empiezan oscilando pero cada vez con menos fuerza, hasta que se quedan quietas en un valor constante.
 En el plano fase esto se ve como una espiral que se va cerrando hacia adentro y termina justo en el punto de equilibrio (el punto rojo), lo que podemos interpretar como que conejos y zorros terminan coexistiendo de forma estable.
  
